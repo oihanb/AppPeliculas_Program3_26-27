@@ -1,0 +1,6 @@
+package domain;
+
+public enum Genero {
+	ACCION, ANIMACION, CIENCIA_FICCION, COMEDIA,
+	DRAMA, FANTASIA, ROMANCE, TERROR, THRILLER
+}
